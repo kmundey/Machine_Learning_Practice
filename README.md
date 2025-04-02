@@ -1,5 +1,7 @@
 # Machine Learning Practice
-Practice implementing various machine learning models:
+This repository contains files implementing various machine learning models and techniques on different datasets. 
+
+Models and techniques:
 * Linear Regression
 * Logistic Regression
 * Decision Trees
